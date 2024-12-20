@@ -13,4 +13,4 @@ function fetchdata() {
 
 fetchdata()
   .then((data) => console.log(data))
-  .catch((error) => console.error(error));
+  .catch((error) => console.error(error)); //Just checking git
